@@ -40,4 +40,5 @@ Should run here, if it doesn't then something is wrong.
 This code might not run, if not then consult the 
 https://github.com/CHETHAN-CS/Nvidia-jetson-inference
 libary, and go to where it tells you to train cat/dog, and put the dataset in there. 
-© Copyright 2020-2022 NullifyOne. This source code is *confidential and proprietary.*
+
+© Copyright: None. This source code is *open source*
