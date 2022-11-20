@@ -7,6 +7,10 @@
 
 This repository contains the information and trained Resnet-18 Dataset to detect certain types of food.
 
+Video on the training/running:
+
+https://youtu.be/A97BZsB8H7Q
+
 ## Deployment Information
 
 This needs to be run on a capable device that can run the training procedure if needed, this will need to have the full dataset downloaded
